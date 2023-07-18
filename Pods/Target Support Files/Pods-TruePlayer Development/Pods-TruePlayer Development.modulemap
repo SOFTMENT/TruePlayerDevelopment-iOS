@@ -1,0 +1,6 @@
+framework module Pods_TruePlayer_Development {
+  umbrella header "Pods-TruePlayer Development-umbrella.h"
+
+  export *
+  module * { export * }
+}
